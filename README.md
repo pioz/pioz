@@ -9,5 +9,5 @@
 Check out **my curriculum vitæ**:
 ```hash
 $ gem install epilotto_curriculum
-$ epilotto
+$ epilotto | less
 ```
